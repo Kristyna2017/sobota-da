@@ -7,3 +7,5 @@ mnam
 Přidávám změny , které jsou nekompatibilní 
 
 Napíšu změny
+
+Ahoj
